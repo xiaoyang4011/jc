@@ -1,0 +1,14 @@
+C:\Users\ø°≈Ù\Desktop\images\wrapper_bg.png
+C:\Users\ø°≈Ù\Desktop\images\wrapper_simple_bg.png
+C:\Users\ø°≈Ù\Desktop\images\buttonhot_bg.png
+C:\Users\ø°≈Ù\Desktop\images\menu_bg.png
+C:\Users\ø°≈Ù\Desktop\images\menuitemhot_bg.png
+C:\Users\ø°≈Ù\Desktop\images\ebab_mbmcp.png
+C:\Users\ø°≈Ù\Desktop\images\ebab_mbmcp_d.png
+C:\Users\ø°≈Ù\Desktop\images\ebab_mbmcp_d2.png
+C:\Users\ø°≈Ù\Desktop\images\ebab_mbmcp_c.png
+C:\Users\ø°≈Ù\Desktop\images\ebab_mbmcp_c2.png
+C:\Users\ø°≈Ù\Desktop\images\mbjsmbmcp.js
+C:\Users\ø°≈Ù\Desktop\images\mbcsmbmcp.css
+C:\Users\ø°≈Ù\Desktop\index.htm
+C:\Users\ø°≈Ù\Desktop\images\filelist_caai.txt
